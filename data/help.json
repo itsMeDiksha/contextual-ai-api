@@ -1,0 +1,92 @@
+[
+{
+"id": "help-change-source",
+"title": "Change audio source",
+"tags": ["controls", "audio", "basics"],
+"snippet": "To switch the audio source, say “Switch to Bluetooth” or use the Source button on the console. The current track will pause and resume from the selected source."
+},
+{
+"id": "help-play-podcast",
+"title": "Play a podcast",
+"tags": ["voice", "playback"],
+"snippet": "Say “Play the latest episode of Tech Digest” or “Resume my podcasts.” Playback starts from the most recent unplayed episode."
+},
+{
+"id": "help-skip-track",
+"title": "Skip or replay",
+"tags": ["controls", "audio"],
+"snippet": "Use the steering‑wheel arrows to skip forward or back. Voice commands like “Next” or “Go back 30 seconds” also work hands‑free."
+},
+{
+"id": "help-volume-safe",
+"title": "Safe volume",
+"tags": ["safety", "audio"],
+"snippet": "For clear speech at highway speeds, keep volume between 40–60%. Avoid sudden jumps; long‑press raises volume gradually."
+},
+{
+"id": "help-traffic-toggle",
+"title": "Toggle traffic updates",
+"tags": ["navigation", "news"],
+"snippet": "Say “Traffic on” to hear brief congestion alerts between tracks. Say “Traffic off” to return to uninterrupted playback."
+},
+{
+"id": "help-find-longform",
+"title": "Find long‑form content",
+"tags": ["discovery", "highway"],
+"snippet": "For long highway trips, ask “Recommend a 60‑minute playlist” or “Suggest a long podcast.” The co‑pilot favors consistent, low‑distraction options."
+},
+{
+"id": "help-quick-news",
+"title": "Quick news",
+"tags": ["discovery", "morning", "city"],
+"snippet": "Say “Give me a 10‑minute news brief.” The system retrieves short, high‑level summaries suitable for short city commutes."
+},
+{
+"id": "help-reduce-bass",
+"title": "Reduce bass at night",
+"tags": ["audio", "night"],
+"snippet": "Late‑night drives benefit from lower bass to reduce fatigue. Say “Tone down bass” or use EQ → Night mode."
+},
+{
+"id": "help-speed-control",
+"title": "Playback speed",
+"tags": ["controls", "podcasts"],
+"snippet": "Adjust speed with “Speed one‑point‑two” or the player menu. Speeds between 1.2×–1.4× keep clarity while saving time."
+},
+{
+"id": "help-save-for-later",
+"title": "Save for later",
+"tags": ["library", "bookmarks"],
+"snippet": "Say “Save this” to add the current episode or playlist to the Saved list. Access it from Library → Saved."
+},
+{
+"id": "help-voice-tips",
+"title": "Voice command tips",
+"tags": ["voice", "basics"],
+"snippet": "Speak naturally after the beep and keep commands short. Examples: “Play Ambient Focus,” “Pause,” “Recommend morning news.”"
+},
+{
+"id": "help-driver-distraction",
+"title": "Minimize distraction",
+"tags": ["safety"],
+"snippet": "Use voice controls whenever possible and keep interactions under 5 seconds. The UI limits long text while the vehicle is moving."
+},
+{
+"id": "help-recommendation-refresh",
+"title": "Refresh recommendations",
+"tags": ["discovery"],
+"snippet": "Say “Refresh suggestions” to get a new set of items. The co‑pilot avoids recently played items unless asked to repeat."
+},
+{
+"id": "help-download-offline",
+"title": "Offline playback",
+"tags": ["connectivity"],
+"snippet": "When connectivity is weak, the co‑pilot offers cached items automatically. Download playlists in advance from Library → Downloads."
+},
+{
+"id": "help-emergency-stop",
+"title": "Emergency assistance",
+"tags": ["safety", "emergency"],
+"snippet": "If stopped safely, say “Call roadside assistance” or use the SOS button. For immediate danger, contact local emergency services."
+}
+]
