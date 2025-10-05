@@ -1,8 +1,12 @@
-name: Deploy to Pages
+name: Deploy site to Pages
 on:
   push:
     branches: [ main ]
   workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
